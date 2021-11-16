@@ -1,4 +1,4 @@
-FROM docker000/postgresql12-s3:latest
+FROM sqldbapg/postgresql12-s3:latest
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV PGBKP /var/lib/postgresql/backups
