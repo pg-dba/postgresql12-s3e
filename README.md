@@ -1,4 +1,4 @@
-# postgresql10
+# postgresql12
 
 https://hub.docker.com/_/postgres
 
